@@ -69,8 +69,8 @@ streamlit run app.py
 
 
 📊 Sample Results
-Model	        Accuracy	Precision	Recall	F1 Score
-KNN	            92%	      91%	      90%	  90%
+Model	        Accuracy Precision	Recall	F1 Score
+KNN	          92%	      91%	      90%	  90%
 Random Forest	  88%	      87%	      85%	  86%
 XGBoost	          90%	      89%	      88%	  88%
 
